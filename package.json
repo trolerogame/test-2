@@ -1,0 +1,19 @@
+{
+  "name": "@dani7ug/libreria-test-dani7ug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trolerogame/test-2.git"
+  },
+  "author": "daniel campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trolerogame/test-2/issues"
+  },
+  "homepage": "https://github.com/trolerogame/test-2#readme"
+}
