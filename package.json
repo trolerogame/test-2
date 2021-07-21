@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/trolerogame/test-2/issues"
   },
-  "homepage": "https://github.com/trolerogame/test-2#readme"
+  "homepage": "https://github.com/trolerogame/test-2#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
